@@ -5,9 +5,9 @@
 ### Purpose
 
 ## Results
-![2017 stocks](Resources/VBA_Challenge_2017.png)
+![2017 stocks](Resources/VBA_Challenge_2017.PNG)
 
-![2018 stocks](Resources/VBA_Challenge_2018.png)
+![2018 stocks](Resources/VBA_Challenge_2018.PNG)
 
 When run without the refactored code, it took 0.78125 seconds to complete the calculations for each year.  
 When ran with the refactored code, it took0.117875 seconds to complete the calculations.
