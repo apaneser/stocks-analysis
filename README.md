@@ -4,6 +4,8 @@
 
 ### Purpose
 
+The purpose of this project is to refactor the code built for Steve in order to calculate the total daily value and the return of each stock in the group at a certain year, that is, to make it more effecient and get the calculations much more quickly. To do this, the nested loop had to be turned into a single loop so the macro doesnt go through all the rows multiple times.
+
 ## Results
 ![2017 stocks](Resources/VBA_Challenge_2017.PNG)
 
